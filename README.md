@@ -2,10 +2,13 @@
 ### 🚧 In Progress and Continuously Updating
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 A curated collection of multi-agent systems research papers and resources for scientific discovery and research automation.
+
+**Related Resources:**
+- 🔗 **[Awesome AI for Science](https://github.com/hyperai/awesome-ai4s)** - Comprehensive AI4S paper collection and tutorials
 
 > **🌟 Star us on GitHub — it motivates us to keep this list updated!**
 
@@ -519,7 +522,15 @@ We welcome contributions from the community! Please help us make this the most c
 - ✅ High-quality preprints with significant impact
 - ✅ Open-source tools and frameworks
 - ✅ Datasets and benchmarks
-- ✅ Tutorials, Workships and educational resources
+- ✅ Tutorials and educational resources
+
+## 📄 License
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+This repository is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
+---
 
 
 *Maintained with ❤️ for the scientific community*
