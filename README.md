@@ -1,4 +1,4 @@
-# 🤖🔬 Awesome Multi-Agent LLM For Science (MAS4Science)
+# 🤖🔬 Awesome Multi-Agent LLM For Science
 
 A curated collection of multi-agent systems research papers and resources for scientific discovery and research automation.
 
