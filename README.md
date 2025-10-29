@@ -1,23 +1,10 @@
 # 🤖🔬 Awesome Multi-Agent For Science (MAS4Science)
-### 🚧 In Progress and Continuously Updating
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 A curated collection of multi-agent systems research papers and resources for scientific discovery and research automation.
-
-**Related Resources:**
-- 🔗 **[Awesome AI for Science](https://github.com/hyperai/awesome-ai4s)** - Comprehensive AI4S paper collection and tutorials
-
-> **🌟 Star us on GitHub — it motivates us to keep this list updated!**
-
----
 
 ## 📋 Table of Contents
 
 - [📖 Introduction](#-introduction)
-- [🗂️ Taxonomy Overview](#️-taxonomy-overview)
 - [🎯 I. By Research Task](#-i-by-research-task)
 - [🔬 II. By Scientific Discipline](#-ii-by-scientific-discipline)
 - [🛠️ III. Frameworks & Infrastructure](#️-iii-frameworks--infrastructure)
@@ -29,55 +16,7 @@ A curated collection of multi-agent systems research papers and resources for sc
 
 ## 📖 Introduction
 
-Multi-agent systems (MAS) represent a paradigm shift in scientific research automation, enabling collaborative AI systems to tackle complex scientific problems through:
-
-- **🔄 Distributed Problem-Solving**: Multiple agents work in parallel on sub-problems
-- **🎭 Role Specialization**: Agents take on distinct roles (theorist, experimentalist, critic)
-- **💬 Emergent Intelligence**: Agent interaction produces insights beyond individual capabilities
-- **🔁 Iterative Refinement**: Multi-round debate and consensus mechanisms
-- **🤝 Human Collaboration**: Seamless integration of human expertise
-
----
-
-## 🗂️ Taxonomy Overview
-
-This repository organizes MAS4Science literature with a **task-first, discipline-second** approach:
-```
-📊 Primary Taxonomy Structure
-
-🎯 PART I: BY RESEARCH TASK (What agents do)
-├─ Hypothesis Generation & Literature Review
-├─ Experimental Design & Planning
-├─ Autonomous Experimentation & Execution
-├─ Data Analysis & Interpretation
-├─ Peer Review & Validation
-├─ Scientific Writing & Communication
-└─ Programming & Software Development
-
-🔬 PART II: BY SCIENTIFIC DISCIPLINE (Where applied)
-├─ Physics
-├─ Mathematics
-├─ Chemistry & Materials Science
-├─ Biology & Life Sciences
-├─ Earth & Environmental Sciences
-├─ Programming & Coding
-└─ Cross-Domain & Interdisciplinary
-
-🛠️ PART III: FRAMEWORKS & INFRASTRUCTURE (How implemented)
-├─ General MAS Frameworks
-├─ Domain-Specific Platforms
-└─ Communication Protocols & Coordination
-
-⚠️ PART IV: FAILURE MODES & OPEN CHALLENGES
-├─ Technical Failure Modes
-├─ Scientific Reliability Issues
-└─ Open Research Challenges
-
-📚 PART V: TUTORIALS, WORKSHOPS & RESOURCES
-├─ Tutorials & Courses
-├─ Conferences & Workshops
-└─ Tools & Datasets
-```
+Multi-agent systems enable collaborative AI to tackle complex scientific problems through distributed problem-solving, role specialization, and iterative refinement.
 
 ---
 
@@ -85,125 +24,17 @@ This repository organizes MAS4Science literature with a **task-first, discipline
 
 ### A. Hypothesis Generation & Literature Review
 
-#### 📐 Physics
-
-#### 🔢 Mathematics
-
-#### 🧪 Chemistry & Materials Science
-
-#### 🧬 Biology & Life Sciences
-
-#### 🌍 Earth & Environmental Sciences
-
-#### 💻 Programming & Coding
-
-#### 🔄 Cross-Domain & Interdisciplinary
-
----
-
 ### B. Experimental Design & Planning
-
-#### 📐 Physics
-
-#### 🔢 Mathematics
-
-#### 🧪 Chemistry & Materials Science
-
-#### 🧬 Biology & Life Sciences
-
-#### 🌍 Earth & Environmental Sciences
-
-#### 💻 Programming & Coding
-
-#### 🔄 Cross-Domain & Interdisciplinary
-
----
 
 ### C. Autonomous Experimentation & Execution
 
-#### 📐 Physics
-
-#### 🔢 Mathematics
-
-#### 🧪 Chemistry & Materials Science
-
-#### 🧬 Biology & Life Sciences
-
-#### 🌍 Earth & Environmental Sciences
-
-#### 💻 Programming & Coding
-
-#### 🔄 Cross-Domain & Interdisciplinary
-
----
-
 ### D. Data Analysis & Interpretation
-
-#### 📐 Physics
-
-#### 🔢 Mathematics
-
-#### 🧪 Chemistry & Materials Science
-
-#### 🧬 Biology & Life Sciences
-
-#### 🌍 Earth & Environmental Sciences
-
-#### 💻 Programming & Coding
-
-#### 🔄 Cross-Domain & Interdisciplinary
-
----
 
 ### E. Peer Review & Validation
 
-#### 📐 Physics
-
-#### 🔢 Mathematics
-
-#### 🧪 Chemistry & Materials Science
-
-#### 🧬 Biology & Life Sciences
-
-#### 🌍 Earth & Environmental Sciences
-
-#### 💻 Programming & Coding
-
-#### 🔄 Cross-Domain & Interdisciplinary
-
----
-
 ### F. Scientific Writing & Communication
 
-#### 📐 Physics
-
-#### 🔢 Mathematics
-
-#### 🧪 Chemistry & Materials Science
-
-#### 🧬 Biology & Life Sciences
-
-#### 🌍 Earth & Environmental Sciences
-
-#### 💻 Programming & Coding
-
-#### 🔄 Cross-Domain & Interdisciplinary
-
----
-
 ### G. Programming & Software Development
-
-#### 🔬 Scientific Computing
-
-#### 🔧 Research Software Engineering
-
-#### 🐛 Debugging & Optimization
-
-#### 📊 Data Infrastructure
-
-#### 🔒 Verification & Validation
-
-#### 🔄 Cross-Domain Programming
 
 ---
 
@@ -331,27 +162,7 @@ This repository organizes MAS4Science literature with a **task-first, discipline
 
 #### LLM-Based Multi-Agent Frameworks
 
-**AutoGen**
-
-**MetaGPT**
-
-**LangGraph**
-
-**CAMEL**
-
-**ChatDev**
-
-**CrewAI**
-
-**AgentVerse**
-
 #### Classical MAS Frameworks
-
-**JADE**
-
-**SPADE**
-
-**MASON**
 
 ---
 
@@ -373,31 +184,9 @@ This repository organizes MAS4Science literature with a **task-first, discipline
 
 #### Agent Communication Languages
 
-**FIPA ACL**
-
-**JSON-RPC / REST APIs**
-
-**Custom Message Protocols**
-
 #### Coordination Mechanisms
 
-**Blackboard Systems**
-
-**Contract Net Protocol**
-
-**Voting & Consensus**
-
-**Hierarchical Coordination**
-
-**Market-Based Coordination**
-
 #### Shared Memory & State Management
-
-**Centralized State**
-
-**Distributed State**
-
-**Hybrid Approaches**
 
 ---
 
@@ -471,25 +260,74 @@ This repository organizes MAS4Science literature with a **task-first, discipline
 
 #### MAS Focused Venues
 
+- **AAMAS (International Conference on Autonomous Agents and Multiagent Systems)**
+  - Premier conference for multi-agent systems research
+  - Annual conference with workshops on scientific applications
+  - [https://www.aamas-conference.org/](https://www.aamas-conference.org/)
+
+- **IJCAI (International Joint Conference on Artificial Intelligence)**
+  - Multi-agent systems track with scientific discovery sessions
+  - [https://www.ijcai.org/](https://www.ijcai.org/)
+
+- **AAAI Workshop on AI for Scientific Discovery**
+  - Annual workshop focusing on AI and multi-agent approaches for science
+  - Features both theoretical and applied research
+
 #### AI for Science Venues
 
+- **NeurIPS Workshop on AI for Science**
+  - Workshop on machine learning and AI methods for scientific discovery
+  - Includes sessions on multi-agent scientific systems
+  - [https://ai4sciencecommunity.github.io/](https://ai4sciencecommunity.github.io/)
+
+- **ICML Workshop on Computational Biology**
+  - Machine learning applications in biology with multi-agent sessions
+  - [https://icml.cc/](https://icml.cc/)
+
+- **AI4Science @ AAAI**
+  - Dedicated track for AI applications across scientific domains
+  - Multi-agent approaches for laboratory automation and discovery
+
+- **AutoML Conference**
+  - Automated machine learning with emerging multi-agent methods
+  - [https://www.automl.org/](https://www.automl.org/)
+
 #### Domain-Specific Conferences
+
+**Physics & Materials**
+- **Machine Learning for Physical Sciences (ML4PS) @ NeurIPS**
+  - Multi-agent approaches for physics simulations and materials discovery
+- **AI for Accelerated Materials Design Workshop**
+
+**Chemistry & Drug Discovery**
+- **Machine Learning for Drug Discovery (MLDD)**
+  - Multi-agent systems for molecular design and synthesis planning
+- **AI in Chemistry @ RSC**
+  - Royal Society of Chemistry workshops on computational chemistry
+
+**Biology & Medicine**
+- **Machine Learning for Health (ML4H)**
+  - Multi-agent clinical decision support and drug discovery
+  - [https://ml4h.cc/](https://ml4h.cc/)
+- **RECOMB (Research in Computational Molecular Biology)**
+  - Computational approaches to biological problems
+
+**Mathematics & Theorem Proving**
+- **Conference on Intelligent Computer Mathematics (CICM)**
+  - Formal methods and automated reasoning
+- **Interactive Theorem Proving (ITP)**
+  - Multi-agent proof assistants and verification
+
+**Environmental Sciences**
+- **Tackling Climate Change with Machine Learning @ NeurIPS**
+  - Multi-agent systems for climate modeling and prediction
+- **AI for Earth Sciences Workshop**
 
 ---
 
 ### C. Tools & Resources
 
 #### Scientific APIs & Databases
-
-**Physics Resources**
-
-**Mathematics Resources**
-
-**Chemistry Resources**
-
-**Biology Resources**
-
-**Programming Resources**
 
 #### Code Repositories & Model Hubs
 
@@ -526,11 +364,8 @@ We welcome contributions from the community! Please help us make this the most c
 
 ## 📄 License
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
 This repository is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ---
-
 
 *Maintained with ❤️ for the scientific community*
